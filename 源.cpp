@@ -1,8 +1,9 @@
 #include<iostream>
+#include"mylib.h"
 using namespace std;
 
 int main()
 {
-	cout << "this is a simple test!" << endl;
+	f();
 	return 0;
 }
